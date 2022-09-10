@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/" target="blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_maxime_leger" height="30" width="40" /></a>
   <a href="https://twitter.com/LgerMaxime5" target="blank"><img align="center" src="svg_icons/twitter-original.svg" height="30" width="40" /></a>
   <a href="mailto: maximeleger2009@live.fr" target="blank"><img align="center" src="svg_icons/email.svg" alt="email_maxime_leger" height="40" width="40" /></a>
-  <a href="https://twitter.com/LgerMaxime5" target="blank"><img align="center" src="svg_icons/curriculum-resume.svg" alt="curriculum_vitae_maxime_leger" height="40" width="40" /></a>
+  <a href="https://maxime-leger.github.io/CV/CV_eng.pdf" target="blank"><img align="center" src="svg_icons/curriculum-resume.svg" alt="curriculum_vitae_maxime_leger" height="40" width="40" /></a>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
