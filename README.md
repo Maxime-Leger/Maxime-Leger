@@ -3,7 +3,7 @@ Jayllho/Jayllho is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/" target="_blank">Maxime Léger</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/?locale=en_US" target="_blank">Maxime Léger</a></h1>
 <h3 align="center">Software Engineer @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a></h3>
 
     🔭 I’m currently working on building my portfolio !
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_maxime_leger" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_maxime_leger" height="30" width="40" /></a>
   <a href="https://twitter.com/LgerMaxime5" target="_blank"><img align="center" src="svg_icons/twitter-original.svg" height="30" width="40" /></a>
   <a href="mailto: maximeleger2009@live.fr" target="_blank"><img align="center" src="svg_icons/email.svg" alt="email_maxime_leger" height="40" width="40" /></a>
   <a href="https://maxime-leger.github.io/CV/CV_eng.pdf" target="_blank"><img align="center" src="svg_icons/curriculum-resume.svg" alt="curriculum_vitae_maxime_leger" height="40" width="40" /></a>
