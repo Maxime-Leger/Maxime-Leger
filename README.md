@@ -3,7 +3,7 @@ Jayllho/Jayllho is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/?locale=en_US" target="_blank">Maxime Léger</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/maxime-leger1/?locale=en_US" target="_blank">Maxime Léger</a></h1>
 <h3 align="center">Software Engineer @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a></h3>
 
     🔭 I’m currently working on building my portfolio !
