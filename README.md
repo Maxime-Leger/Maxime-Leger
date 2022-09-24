@@ -10,14 +10,15 @@ You can click the Preview link to take a look at your changes.
     
     👀 I’m interested in finding new ways of solving problems.
 
-    🌱 I’m currently learning Japanese.
-
     💞️ I’m looking to collaborate on project about AI and/or data science.
 
     💬 Ask me about software development, coding or anything related
     
     ⚡ Fun fact : The circulatory system is more than 60,000 miles long
 
+<!---
+🌱 I’m currently learning Japanese.
+--->
 
 
 <h3 align="center">Connect with me:</h3>
