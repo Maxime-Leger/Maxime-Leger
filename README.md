@@ -26,8 +26,18 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/maxime-leger-592a971ba/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_maxime_leger" height="30" width="40" /></a>
   <a href="https://twitter.com/LgerMaxime5" target="_blank"><img align="center" src="svg_icons/twitter-original.svg" height="30" width="40" /></a>
   <a href="mailto: maximeleger2009@live.fr" target="_blank"><img align="center" src="svg_icons/email.svg" alt="email_maxime_leger" height="40" width="40" /></a>
-  <a href="https://maxime-leger.github.io/CV/CV_eng.pdf" target="_blank"><img align="center" src="svg_icons/curriculum-resume.svg" alt="curriculum_vitae_maxime_leger" height="40" width="40" /></a>
 </div>
+
+<div align="center">
+<h3>
+    <img align="center" src="svg_icons/curriculum-resume.svg" alt="curriculum_vitae" height="40" width="40" />
+    Resumes: 
+    <a href="https://maxime-leger.github.io/CV/CV_us.pdf" target="_blank"><strong>US</strong></a>
+    <a href="https://maxime-leger.github.io/CV/CV_en.pdf" target="_blank"><strong>EN</strong></a>
+    <a href="https://maxime-leger.github.io/CV/CV_fr.pdf" target="_blank"><strong>FR</strong></a>
+</div></h3>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
