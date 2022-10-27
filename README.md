@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/maxime-leger1/?locale=en_US" target="_blank">Maxime Léger</a></h1>
 <h3 align="center">Software Engineer @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a></h3>
 
-    🔭 I’m currently working on building my portfolio !
+    🔭 I’m currently working on collaborative projects !
     
     👀 I’m interested in finding new ways of solving problems.
 
-    💞️ I’m looking to collaborate on project about AI and/or data science.
+    💞️ I’m looking to innovate on project in Software Development.
 
     💬 Ask me about software development, coding or anything related
     
