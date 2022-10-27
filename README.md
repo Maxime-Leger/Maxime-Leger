@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
     💬 Ask me about software development, coding or anything related
     
-    ⚡ Fun fact : The circulatory system is more than 60,000 miles long
+    ⚡ Fun fact : The circulatory system is more than 60,000 miles long.
 
 <!---
 🌱 I’m currently learning Japanese.
