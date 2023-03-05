@@ -35,7 +35,6 @@ You can click the Preview link to take a look at your changes.
   <!-- Code -->
   <a href="https://www.python.org" target="_blank"> <img src="svg_icons/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="svg_icons/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-<!--  <a href="https://www.cprogramming.com/" target="_blank"> <img src="svg_icons/c-original.svg" alt="C" width="40" height="40"/> </a> -->
   <a href="https://mathworks.com" target="_blank"> <img src="svg_icons/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
   
   
@@ -54,18 +53,24 @@ You can click the Preview link to take a look at your changes.
   <a href="https://getbootstrap.com" target="_blank"> <img src="svg_icons/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     
     
-  <a href="https://angular.io" target="_blank">  <img src="svg_icons/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank">  <img src="svg_icons/react-svgrepo-com.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://vitejs.dev/" target="_blank">  <img src="svg_icons/vite-svgrepo-com.svg " alt="react" width="40" height="40"/> </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank">  <img src="svg_icons/fastapi-svgrepo-com.svg " alt="react" width="40" height="40" style="color:#019485"/> </a> 
   
    
-  <!-- Databases -->
-  <a href="https://mariadb.org/" target="_blank"> <img src="svg_icons/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="svg_icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="svg_icons/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  
-  <!--   Dev tools -->
+  <!-- Databases & Dev tools-->
   <a href="https://www.linux.org/" target="_blank"> <img src="svg_icons/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<!--  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="svg_icons/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank"> <img src="svg_icons/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> -->
   <a href="https://www.docker.com/" target="_blank"> <img src="svg_icons/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="svg_icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  </div>
+
+
+<!--  <a href="https://www.cprogramming.com/" target="_blank"> <img src="svg_icons/c-original.svg" alt="C" width="40" height="40"/> </a> -->
+<!--
+  <a href="https://angular.io" target="_blank">  <img src="svg_icons/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://mariadb.org/" target="_blank"> <img src="svg_icons/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="svg_icons/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="svg_icons/kubernetes-svgrepo-com.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="svg_icons/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com" target="_blank"> <img src="svg_icons/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+-->
