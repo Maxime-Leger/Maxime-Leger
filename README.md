@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Contacts</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/maxime-leger1/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_maxime_leger" height="40" width="60" /></a>
-  <a href="mailto: maximeleger2009@live.fr" target="_blank"><img align="center" src="svg_icons/email.svg" alt="email_maxime_leger" height="60" width="60" /></a>
+  <a href="https://www.linkedin.com/in/maxime-leger1/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_maxime_leger" height="40" width="50" /></a>
+  <a href="mailto: maximeleger2009@live.fr" target="_blank"><img align="center" src="svg_icons/email.svg" alt="email_maxime_leger" height="50" width="50" /></a>
 </div>
 
 <!--
